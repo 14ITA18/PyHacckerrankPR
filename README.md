@@ -1,7 +1,8 @@
 # PyHacckerrankPR
 This repo is about python
+
 | Sn No | Experiment name |
-|-------|-----------------|
+|-------|:-----------------:|
 | 1 | Say "Hello, World!" With Python|
 | 2 | Reading Raw Input |
 | 3 | Find your dream job |
